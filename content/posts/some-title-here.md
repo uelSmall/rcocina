@@ -1,5 +1,5 @@
 ---
-title: Yummy Flauntas
+title: Yummy Flauntas by R.Cocina's Resturant
 date: 2020-05-05T16:25:30.667Z
 published: true
 tags:
