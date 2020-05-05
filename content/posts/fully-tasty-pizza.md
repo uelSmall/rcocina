@@ -1,5 +1,5 @@
 ---
-title: " Fully, tasty, veggie loaded pizza by R.Cocina's Resturant"
+title: " Fully, tasty, veggie loaded pizza by R.Cocina's Restaurant"
 date: 2020-05-05T17:28:00.000Z
 published: true
 tags:
