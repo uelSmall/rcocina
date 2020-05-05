@@ -5,8 +5,16 @@
       <div class="header__left">
         <Logo v-if="showLogo" />
       </div>
+      <nav class="nav">
+            <g-link class="nav__link" to="/">Home</g-link>
+            <g-link class="nav__link" to="/about/">About</g-link>
+            <g-link class="nav__link" to="/blog/">blog</g-link>
+            <g-link class="nav__link" to="/contact/">Contact</g-link>
+      </nav>
+
 
       <div class="header__right">
+  
         <ToggleTheme />
       </div>
     </header>
@@ -17,7 +25,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//www.suits.at"> SUITS </a></span>
+      <span class="footer__links">Powered by <a href="#"> uWeeTech Agency </a></span>
     </footer>
 
   </div>

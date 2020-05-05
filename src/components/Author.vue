@@ -5,13 +5,11 @@
 			{{ $static.metadata.siteName }}
 		</h1>
 
-		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
-		</p>
+		<p class="author__intro">HomeMade is the way!! Vegetarian/Pescatarian Foods-n-Recipes, YouTube videos coming soon’stay tuned!	</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="">Follow and like on Instagram</a>
+
 		</p>
 
 	</div>

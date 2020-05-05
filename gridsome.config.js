@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'R.Cocina',
-  siteDescription: 'HomeMade is the way!!!',
+  siteDescription: 'HomeMade is the way!! Vegetarian/Pescatarian Foods-n-Recipes, YouTube videos coming soon’stay tuned!',
 
   templates: {
     Post: '/:title',
