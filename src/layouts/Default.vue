@@ -6,10 +6,10 @@
         <Logo v-if="showLogo" />
       </div>
       <nav class="nav">
-            <g-link class="nav__link" to="/">Home</g-link>
-            <g-link class="nav__link" to="/about/">About</g-link>
+            <g-link class="nav__link" to="">Home</g-link>
+            <g-link class="nav__link" to="">About</g-link>
             <g-link class="nav__link" to="/blog/">blog</g-link>
-            <g-link class="nav__link" to="/contact/">Contact</g-link>
+            <g-link class="nav__link" to="">Contact</g-link>
       </nav>
 
 
@@ -47,6 +47,11 @@ export default {
 </script>
 
 <style lang="scss">
+
+.nav__link {
+  margin-left: 20px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
