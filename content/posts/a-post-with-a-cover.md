@@ -1,6 +1,6 @@
 ---
 title: " Fully Tasty veggie loaded pizza by Rcocina's Resturant"
-date: 2019-01-07T00:00:00.000Z
+date: 2021-05-05T17:28:00.000Z
 published: true
 tags:
   - veggiepizza
