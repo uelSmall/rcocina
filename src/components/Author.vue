@@ -5,12 +5,7 @@
 			{{ $static.metadata.siteName }}
 		</h1>
 
-		<p class="author__intro">HomeMade is the way!! Vegetarian/Pescatarian Foods-n-Recipes, YouTube videos coming soon’stay tuned!	</p>
-
-		<p class="author__links"> 
-						<a href="//instagram.com/rkitchen95_/" target="_blank">Follow on Instagram</a>
-
-		</p>
+		<p class="author__intro">HomeMade is the way!! Vegetarian/Pescatarian Foods-n-Recipes, YouTube videos coming soon’stay tuned!</p>
 
 	</div>
 </template>

@@ -3,12 +3,12 @@
 
     <header class="header">
       <div class="header__left">
-        <Logo v-if="showLogo" />
+        <Logo v-if="showLogo " />
       </div>
       <nav class="nav">
             <g-link class="nav__link" to="">Home</g-link>
             <g-link class="nav__link" to="">About</g-link>
-            <g-link class="nav__link" to="/blog/">blog</g-link>
+            <g-link class="nav__link" to="">blog</g-link>
             <g-link class="nav__link" to="">Contact</g-link>
       </nav>
 

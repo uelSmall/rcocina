@@ -10,13 +10,12 @@ tags:
   - foodnetwork
 cover_image: /images/uploads/93970924_577543623175689_4672401576100741037_n.jpg
 description: >-
-  Fully veggie loaded pizza🍕\
+  Fully veggie loaded pizza🍕
 
   Includes -cheese - black olives - tomatoes - broccoli - cucumbers - green bell peppers - banana peppers - pickles - veggie bacon
 ---
-**Fully veggie loaded pizza**🍕\
-Includes - cheese - black olives - tomatoes - broccoli - cucumbers - green bell peppers - banana peppers - pickles - veggie bacon\
-A lot of people talk down on meat substitutes but it’s all in the way you cook/use it. Of course it’s gonna be nasty if you don’t know how to work with it. 
+**Fully veggie loaded pizza**🍕
+Includes - cheese - black olives - tomatoes - broccoli - cucumbers - green bell peppers - banana peppers - pickles - veggie bacon. A lot of people talk down on meat substitutes but it’s all in the way you cook/use it. Of course it’s gonna be nasty if you don’t know how to work with it. 
 
 ![Morning star](/images/uploads/screenshot_2020-05-05-r-cocina🌱-on-instagram-“fully-veggie-loaded-pizza🍕-includes-cheese-black-olives-tomatoes-bro-...-.png "Morning Star Farms")
 
