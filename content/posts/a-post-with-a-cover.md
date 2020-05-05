@@ -20,6 +20,6 @@ A lot of people talk down on meat substitutes but it’s all in the way you cook
 
 
 
-
+![Morning star](/images/uploads/screenshot_2020-05-05-r-cocina🌱-on-instagram-“fully-veggie-loaded-pizza🍕-includes-cheese-black-olives-tomatoes-bro-...-.png "Morning Star Farms")
 
 The photo above  is one  of my favorite bacon substitute brand. Think about how much better this planet can be if less people ate meat!
