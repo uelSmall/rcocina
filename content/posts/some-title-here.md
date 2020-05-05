@@ -1,10 +1,16 @@
 ---
-title: Some title here
+title: Yummy Flauntas
 date: 2020-05-05T16:25:30.667Z
 published: true
 tags:
-  - tag
+  - Black beans
+  - corntortillas
+  - homecookfood
+  - tacitos
 cover_image: /images/uploads/94368623_910885242694944_4505533774474434234_n.jpg
-description: Some text here
+description: Black Bean Filled Tacitos or Better Known as Flauntas w/ a side of
+  guacamole , pico de galo & crema 🌱
 ---
-some text here idkkk
+Black Bean Filled Tacitos or Better Known as Flauntas w/ a side of guacamole , pico de galo & crema 🌱
+
+Add full Recipe fror yummy Flauntas...
