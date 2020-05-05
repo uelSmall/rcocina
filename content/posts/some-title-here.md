@@ -13,7 +13,7 @@ description: >-
   Yummy Flauntas by R.Cocina's Resturant
 
 
-  *Black Bean Filled Tacitos or Better Known as Flauntas w/ a side of guacamole , pico de galo & crema 🌱*
+  Black Bean Filled Tacitos or Better Known as Flauntas w/ a side of guacamole , pico de galo & crema 🌱
 ---
 **Yummy Flauntas by R.Cocina's Resturant**
 
