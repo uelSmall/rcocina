@@ -1,10 +1,10 @@
 ---
-title: A post with a cover image
+title: Pizza
 date: 2019-01-07T00:00:00.000Z
 published: true
 tags:
-  - Markdown
-  - Cover Image
+  - Pizza
+  - tasty
 cover_image: /images/uploads/93970924_577543623175689_4672401576100741037_n.jpg
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
   feasible. Readability, however, is emphasized above all else. A
