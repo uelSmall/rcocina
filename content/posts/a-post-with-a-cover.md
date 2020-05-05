@@ -10,7 +10,7 @@ tags:
   - foodnetwork
 cover_image: /images/uploads/93970924_577543623175689_4672401576100741037_n.jpg
 description: >-
-  **Fully veggie loaded pizza**🍕\
+  Fully veggie loaded pizza🍕\
 
   *Includes -cheese - black olives - tomatoes - broccoli - cucumbers - green bell peppers - banana peppers - pickles - veggie bacon*
 ---
