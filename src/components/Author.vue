@@ -7,8 +7,7 @@
 
 		<p class="author__intro">HomeMade is the way!! Vegetarian/Pescatarian Foods-n-Recipes, YouTube videos coming soon’stay tuned!	</p>
 
-		<p class="author__links">
-			<a href="https://www.instagram.com/rkitchen95_/">Follow and like on Instagram</a>
+		<p class="author__links"> <a href="https://www.instagram.com/rkitchen95_/" target="_blank">Follow and like on Instagram</a>
 
 		</p>
 
