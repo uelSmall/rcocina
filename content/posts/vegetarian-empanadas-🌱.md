@@ -13,7 +13,7 @@ description: >-
   Gardein Beefless crumbles filling.
 
 
-  *Great Appetizer w/ a mayo,Ketchup,garlic, nutritional yeast& hemp seeds sauce* 💪🏼
+  Great Appetizer w/ a mayo,Ketchup,garlic, nutritional yeast& hemp seeds sauce 💪🏼
 ---
 **Gardein Beefless crumbles filling.** 
 
