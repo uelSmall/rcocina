@@ -10,7 +10,7 @@ tags:
   - savory
 cover_image: /images/uploads/94644896_161084562052975_4644781307485318960_n.jpg
 description: >-
-  **Gardein Beefless crumbles filling.**
+  Gardein Beefless crumbles filling.
 
 
   *Great Appetizer w/ a mayo,Ketchup,garlic, nutritional yeast& hemp seeds sauce* 💪🏼
